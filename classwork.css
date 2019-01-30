@@ -1,0 +1,15 @@
+.listType{
+    list-style-type: disc;
+}
+h1{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+
+}
+.css{
+    list-style-type: none;
+}
