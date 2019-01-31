@@ -13,3 +13,16 @@ h1{
 .css{
     list-style-type: none;
 }
+
+
+.nobullet{
+    list-style-type: none;
+}
+
+#emli {
+	font-style: italic;
+}
+
+#emstr {
+	font-weight: bold;
+}
